@@ -1,0 +1,29 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=40b43512_002D1912_002D4c0d_002D9ac7_002Dee126ae59552/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ResolveCyclingDepencies #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3965599C-9C7A-40A1-95DD-9A1A96268B3A::net5.0::LibraryTest.DIContainerLibraryTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=52451cb3_002D350b_002D4247_002D9b10_002D5a34d6b2c62a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DIContainerLibraryTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3965599C-9C7A-40A1-95DD-9A1A96268B3A::net5.0::LibraryTest.DIContainerLibraryTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6cc9955b_002D9d04_002D4462_002Daa29_002Ded216a0d973d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DIContainerLibraryTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3965599C-9C7A-40A1-95DD-9A1A96268B3A::net5.0::LibraryTest.DIContainerLibraryTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ed532b1_002Dac6d_002D417d_002D9875_002Dd8dc85c0f6de/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DIContainerLibraryTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3965599C-9C7A-40A1-95DD-9A1A96268B3A::net5.0::LibraryTest.DIContainerLibraryTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	</wpf:ResourceDictionary>
