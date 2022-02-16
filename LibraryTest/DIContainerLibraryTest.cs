@@ -114,21 +114,7 @@ namespace LibraryTest
             Assert.Throws<NoSuitableConstructorException>(() => provider.Resolve<IService>());
         }
 
-        [Test]
-        public void CircularDep()
-        {
-            _configuration.Register<IA, A>();
-            _configuration.Register<IB, B>();
-            _configuration.Register<IC, C>();
-            
-            DependencyProvider provider = new DependencyProvider(_configuration);
 
-            A a = (A) provider.Resolve<IA>();
-            B b = (B) provider.Resolve<B>();
-            C c = (C) provider.Resolve<IC>();
-            
-            Assert.AreSame(a, b.a);
-        }
         
         
     }
